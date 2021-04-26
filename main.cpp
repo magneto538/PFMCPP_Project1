@@ -52,85 +52,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       window
+//  action 1:   the window opens
+window.opens();
+//  action 2:   the window closes
+window.closes();
+//  action 3:   the window breaks
+window.destroy();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       wheel
+//  action 1:   the wheel spins
+wheel.spins();
+//  action 2:   the wheel stops
+wheel.stops();
+//  action 3:   the wheel resumes motion
+wheel.resumes(); 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       computer
+//  action 1:   the computer drains battery
+computer.drainsBattery();
+//  action 2:   the computer logs an error
+computer.logError();
+//  action 3:   the computer explodes
+computer.explodes();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       cloud
+//  action 1:   the cloud generates a lightning bolt
+cloud.makeLightningBolt();
+//  action 2:   the cloud forms
+cloud.form();
+//  action 3:   the cloud dissolves
+cloud.dissolve();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       monkey
+//  action 1:   the monkey jumps
+monkey.jump();
+//  action 2:   the monkey spins
+monkey.spin();
+//  action 3:   the monkey runs
+monkey.run();
+//  6)          
+//  Noun:       truck
+//  action 1:   the truck moves 
+truck.moves();
+//  action 2:   the truck leaks oil
+truck.leaksOil();
+//  action 3:   the truck turns on the lights
+truck.turnsLightsOn();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       student
+//  action 1:   the student goes to school 
+student.goToSchool();
+//  action 2:   the student comes back home
+student.goHome();
+//  action 3:   the student graduates
+student.graduate();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       ship
+//  action 1:   the ship enters a canal
+ship.enterCanal();
+//  action 2:   the ship gets stuck
+ship.getStuck();
+//  action 3:   the ship prevents other ships from entering
+ship.preventAllShipsFromEnteringCanal();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       atom
+//  action 1:   the atom forms
+atom.form();
+//  action 2:   the atom splits
+atom.split();
+//  action 3:   the atom loses an electron
+atom.loseElectron();
 //  10)
-//  Noun:
-//  action 1:
+//  Noun:       bottle
+//  action 1:   the bottle leaks 
+bottle.leak();
+//  action 2:   the bottle falls
+bottle.fall();
+//  action 3:   the bottle cracks
+bottle.crack();
 
-//  action 2:
-
-//  action 3:
- 
 
 
 #endif
