@@ -108,13 +108,13 @@ student.goHome();
 //  action 3:   the student graduates
 student.graduate();
 //  8)
-//  Noun:       ship
-//  action 1:   the ship enters a canal
-ship.enterCanal();
-//  action 2:   the ship gets stuck
-ship.getStuck();
-//  action 3:   the ship prevents other ships from entering
-ship.preventAllShipsFromEnteringCanal();
+//  Noun:       iceCream
+//  action 1:   the ice cream falls on concrete
+iceCream.fallOnConcrete();
+//  action 2:   the ice cream melts in x time
+iceCream.meltInTime();
+//  action 3:   the ice cream falls from x height
+iceCream.fallFromHeight();
 //  9)
 //  Noun:       atom
 //  action 1:   the atom forms
